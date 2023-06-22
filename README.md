@@ -1,9 +1,10 @@
 # Temp Mail Pyrogram 
 This is Second Version of https://github.com/Alihtt/Temp-Mail-Bot
-+ Using Pyrogram library
-+ The user joins the channel to use the bot
-+ Connecting to the database and managing information
-+ The robot's language was changed to Farsi
+## The changes have been applied
+1. Using **Pyrogram** library
+2. The user joins the **channel** to use the bot
+3. Connecting to the **Mysql** database and managing information
+4. The robot's language was changed to **Farsi**
 
 ## What Is Temp Mail?
 + it is a free email service that allows to receive email at a temporary address that self-destructed after a certain time elapses. It is also known by names like tempmail, 10minutemail, 10minmail, throwaway email, fake-mail , fake email generator, burner mail or trash-mail
