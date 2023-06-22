@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+mysql-connector-python
+requests
+html2text
