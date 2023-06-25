@@ -1,4 +1,4 @@
-# enter your bot token and api hash
+# enter your token and api
 token = "BOT TOKEN"
 api_hash = "API HASH"
 api_id = 123456
