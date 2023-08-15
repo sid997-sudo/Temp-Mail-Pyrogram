@@ -10,7 +10,7 @@ import logging
 app = Client(
     "Fakemaiil",
     api_id=config.api_id, api_hash=config.api_hash,
-    bot_token=config.token
+    bot_token=6067177575:AAEip8P4fVsQDEpG_LiNRTyqKFiPgy04qvs
 )
 
 
